@@ -1,0 +1,29 @@
+States|Capital|Tigers
+Andhra Pradesh|Hyderaba|24
+Arunachal Pradesh|Itanagar|94
+Assam|Dispur|66
+Bihar |Patna|65
+Chhattisgarh|Naya Raipur|85
+Goa|Panaji|85
+Gujarat|Gandhinagar|76
+Haryana|Chandigarh|8
+Himachal Pradesh|Shimla|12
+Jharkhand|Ranchi|43
+Karnataka|Bangalore|29
+Kerala|Thiruvananthapuram|8
+Madhya Pradesh|Bhopal|43
+Maharashtra|Mumbai |61
+Manipur|Imphal|15
+Meghalaya|Shillong|15  
+Mizoram|Aizawl|70
+Nagaland|Kohima|23
+Odisha|Bhubaneshwar|31
+Punjab|Chandigarh|77
+Rajasthan|Jaipur|89
+Sikkim|Gangtok|86
+Tamil Nadu|Chennai|89
+Telangana |Hyderabad|84
+Tripura|Agartala|63
+Uttarakhand|Dehradun|80
+Uttar Pradesh |Lucknow|28
+West Bengal|Kolkata|86
